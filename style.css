@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+  font-size: 50px;
+  colorblack; 
+}
+
+a {
+    color: white;
+  font-size: 20px;
+}
+#location{
+  color: white;
+    font-size: 50px;
+}
+#weather{
+  color: white;
+  font-size: 50px;
+}
+#temp{
+ color: white;
+  font-size: 50px;
+}
+.container {
+  margin: 0 auto;
+  padding: 0;
+  width: 400px;
+  height: 400px;
+  background-size: cover;
+  border-radius: 10px;
+  position: relative;
+background-color:#fadf63;
+}
+body{
+  background-color: #c0d8e0;
+}
